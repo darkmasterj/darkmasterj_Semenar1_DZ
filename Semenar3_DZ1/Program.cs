@@ -1,4 +1,6 @@
-﻿void CheckPalindromicNumber(int number)
+﻿// Напишите программу, которая принимает на вход пятизначное число и проверяет, является ли оно палиндромом.
+
+void CheckPalindromicNumber(int number)
 {
     if(number >= 10000)
     {
